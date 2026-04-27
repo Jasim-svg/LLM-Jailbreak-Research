@@ -83,9 +83,26 @@ Follow-up scheduled if no response within 7 days.
 
 ---
 
-### OpenAI — Awaiting Response
-Disclosed to security@openai.com + Bugcrowd — April 25, 2026
-Follow-up scheduled if no response within 14 days.
+### OpenAI — ChatGPT Finding
+
+Bugcrowd response on behalf of OpenAI, April 27, 2026:
+
+"Thank you for your submission to the OpenAI program. 
+We appreciate your efforts in keeping our platform secure."
+
+"Issues related to the content of model prompts and responses 
+are strictly out of scope for the Security and Safety Bug 
+Bounty programs, and will not be rewarded unless they have 
+an additional directly verifiable security impact."
+
+— hexghost_bugcrowd on behalf of OpenAI, April 27, 2026
+
+What this response confirms:
+OpenAI, like Google, currently has no formal bounty mechanism 
+for LLM safety guardrail bypasses regardless of severity or 
+reproducibility. Both major AI vendors explicitly exclude this 
+class of vulnerability from their security programs — confirming 
+the industry policy gap documented in this research.
 
 ---
 
